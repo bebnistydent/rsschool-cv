@@ -3,7 +3,7 @@ Nikita YERAMEUEY
 ## Contacts for connection 
 tel number: +375293048823 || 
 Email address: nikitadirrect@gmail.com ||
-Discord: Никита (@bebnistydent)
+Discord: Nikita (@bebnistydent)
 *************************************************************************************************
 #### The short info about me
 I'm a beginner Web-Developer. At current time i study in rs-school and working on my own projects.
@@ -94,3 +94,6 @@ Speciality: Teacher of History
 English school "proffi".
 Basic english language elementary level.
 ***
+### English level
+Level of english: Advanced 
+In past i just had some of english speaker friends
