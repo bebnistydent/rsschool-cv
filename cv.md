@@ -75,7 +75,7 @@ createAndWriteOutput('/', initialResult, enteredNumber);
 }
 
 ```
-
+```
 
 addBtn.addEventListener('click', add);
 subtractBtn.addEventListener('click', subtract);
@@ -83,3 +83,14 @@ multiplyBtn.addEventListener('click', multiply);
 divideBtn.addEventListener('click', divide);
 
 ``` 
+### Job experience
+
+I have no work experience yet
+
+### Education 
+Mogilev State University by name Archadey Culeshov.
+Speciality: Teacher of History 
+***
+English school "proffi".
+Basic english language elementary level.
+***
